@@ -1,0 +1,7 @@
+name	age	city	salary	department
+ivan	25	moscow	50000	IT
+maria	30	london	60000	HR
+alex	22	berlin	45000	Dev
+anna	28	paris	55000	QA
+no_tabs_in_this_line
+peter	35	rome	70000	Management
